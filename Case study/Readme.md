@@ -46,6 +46,12 @@
 •	LCD is used to display the temperature captured.  
 •	A buzzer is used to alert the user when the temperature is reached. 
 
+# COMPLEX EMBEDDEDSYSTEM
+## SET TOP BOX
+
+## BLOCK DIAGRAM
+![](/Case%20study/Complex.png)
+
 
 
 
