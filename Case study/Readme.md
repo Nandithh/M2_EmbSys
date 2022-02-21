@@ -46,6 +46,11 @@
 •	LCD is used to display the temperature captured.  
 •	A buzzer is used to alert the user when the temperature is reached. 
 
+## APPLICATIONS:
+* This system is used to hat water in domestic purposes.
+* Industrial furnaces.
+
+
 # COMPLEX EMBEDDEDSYSTEM
 ## SET TOP BOX
 
@@ -85,6 +90,10 @@
 •	A System on Chip (SoC) processor is used to perform the desired process.  
 •	Individual ports are given to receive the broad casted signals as well as send signals to the user interface.     
 •	DAC’s and ADC’s are used desired places to convert the signals as per the need. 
+
+## APPLICATIONS:
+* It is used in television in houses.
+* Broad casting connection.
 
 
 
