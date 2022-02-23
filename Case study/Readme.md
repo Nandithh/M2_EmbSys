@@ -33,20 +33,21 @@
 
 ## REQUIREMENTS
 ### HIGH LEVEL REQUIREMENTS:
-|`      `**ID**|`                 `**Description**|`            `             
+|`      `**ID**|`   `**Description** |`         
 | :- | :- | :- |
-|`    `HLR 1|` `It shall heat water to the set temperature|
-|`    `HLR 2|` `It shall cut off after the temperature is reached|
-|`    `HLR 3|` `It shall alert the user through a buzzer when temperature is reached|
+|`    `HLR 1|` `It shall heat water to the set temperature |
+|`    `HLR 2|` `It shall cut off after the temperature is reached |
+|`    `HLR 3|` `It shall alert the user through a buzzer when temperature is reached |
  
 
 ### LOW LEVEL REQUIREMENTS:
+|`      `**ID**|`   `**Description** |`         
+| :- | :- | :- |
+|`    `LLR 1|` `A Geyser shall be used to heat water |
+|`    `LLR 2|` `Thermistor shall be used to measure the temperature |
+|`    `LLR 3|` `A buzzer shall be used to alert the user|
 
-•	Heating element is used for the ultimate purpose of heating.  
-•	Water level sensor is used to detect the presence of water to the required level.   
-•	Thermostat is used to check the change in temperature.  
-•	LCD is used to display the temperature captured.  
-•	A buzzer is used to alert the user when the temperature is reached. 
+ 
 
 ## APPLICATIONS:
 * This system is used to hat water in domestic purposes.
