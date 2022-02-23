@@ -33,10 +33,12 @@
 
 ## REQUIREMENTS
 ### HIGH LEVEL REQUIREMENTS:
-•	The ultimate purpose is to heat water to set temperature.     
-•	When exceeds the set temperature, power should be automatically cut-off.  
-•	The current temperature should be displayed in an LCD.  
-•	Should alert the user when the temperature is reached.  
+|`      `**ID**|`                 `**Description**|`            `             
+| :- | :- | :- |
+|`    `HLR 1|` `It shall heat water to the set temperature|
+|`    `HLR 2|` `It shall cut off after the temperature is reached|
+|`    `HLR 3|` `It shall alert the user through a buzzer when temperature is reached|
+ 
 
 ### LOW LEVEL REQUIREMENTS:
 
