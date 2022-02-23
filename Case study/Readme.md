@@ -33,19 +33,25 @@
 
 ## REQUIREMENTS
 ### HIGH LEVEL REQUIREMENTS:
-|`      `**ID**|`   `**Description** |`         
-| :- | :- | :- |
-|`    `HLR 1|` `It shall heat water to the set temperature |
-|`    `HLR 2|` `It shall cut off after the temperature is reached |
-|`    `HLR 3|` `It shall alert the user through a buzzer when temperature is reached |
+
+
+ID     | Description
+-------| -----------------------------------------
+HLR 1  |It shall heat water to the set temperature 
+HLR 2  |It shall cut off after the temperature is reached.
+HLR 3  |It shall alert the user through a buzzer when temperature is reached.
+
+
  
 
 ### LOW LEVEL REQUIREMENTS:
-|`      `**ID**|`   `**Description** |`         
-| :- | :- | :- |
-|`    `LLR 1|` `A Geyser shall be used to heat water |
-|`    `LLR 2|` `Thermistor shall be used to measure the temperature |
-|`    `LLR 3|` `A buzzer shall be used to alert the user|
+
+
+ID     | Description
+-------| -----------------------------------------
+LLR 1  |A Geyser shall be used to heat water.
+LLR 2  |Thermistor shall be used to measure the temperature.
+LLR 3  |A buzzer shall be used to alert the user.
 
  
 
@@ -84,15 +90,25 @@
 
 ## REQUIREMENTS
 ### HIGH LEVEL REQUIREMENTS:
-•	The main purpose of set top box is to process the broadcasted signals into desired audio, video signals and display the output.     
-•	It also receives user inputs through IR sensor to change channels.  
-•	It must have a smart reader to read the unique ID that is given to individual users.  
-•	It must have decoders to decode the broadcasted signals.  
+
+
+ID     | Description
+-------| -----------------------------------------
+HLR 1  |It shall process the broadcasted signal and display the output.
+HLR 2  |It shall receive inputs from user to change channels.
+HLR 3  |It shall read the smart card with unique Identity number.
+HLR 4  |It shall demodulate the audio and video signals to the display.
+
 
 ### LOW LEVEL REQUIREMENTS:
-•	A System on Chip (SoC) processor is used to perform the desired process.  
-•	Individual ports are given to receive the broad casted signals as well as send signals to the user interface.     
-•	DAC’s and ADC’s are used desired places to convert the signals as per the need. 
+
+ID     | Description
+-------| -----------------------------------------
+LLR 1  |An Soc processor shall be used for processign the signals.
+LLR 2  |IR sensor shall be used to receive inputs from the user.
+LLR 3  |A Smart card reader is used to read the unique ID.
+LLR 4  |DAC’s and ADC’s are used desired places to convert the signals as per the need.
+
 
 ## APPLICATIONS:
 * It is used in television in houses.
