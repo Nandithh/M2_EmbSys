@@ -60,6 +60,20 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ### 2.3 SWOT ANALYSIS
 ![](/Project/6_ImagesAndVideos/S.W.O.T.png) 
+
+### 2.4 5W's & 1H
+
+#### what - This a controller that helps to automaticlly refill the water tank using sensors and micro controller.
+
+#### when - It is used when we need to fill water to the pressure tank.
+
+#### Where - It can be used in domestic,Industrial as well as Commercial complexes.
+
+#### who - Normal consumers are the people who use this.
+
+#### why - Inorder to refill water to the tank without wastage.
+
+#### How - By using a micro-controller, sensors and few actuators.
    
 ## 3.BLOCK DIAGRAM & COMPONENT DESCRIPTION
 ### 3.1BLOCK DIAGRAM
