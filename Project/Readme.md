@@ -59,11 +59,7 @@ LLR 3  |A water Quality sensor is used to chechk the quality of the water
 LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ### 2.3 SWOT ANALYSIS
-
-
-
-#### What 
-   This is 
+![](/Project/6_ImagesAndVideos/S.W.O.T.png) 
    
 ## 3.BLOCK DIAGRAM & COMPONENT DESCRIPTION
 ### 3.1BLOCK DIAGRAM
