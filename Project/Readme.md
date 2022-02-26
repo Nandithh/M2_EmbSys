@@ -52,7 +52,7 @@ AC Power supply is given to the circuit inorder to run it.
 
 ## APPLICATIONS
 •	Houses  
-•	Offices 
+•	Offices   
 •	Hospitals       
 •	Commercial complexes   
 
