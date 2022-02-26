@@ -97,7 +97,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 #### 4.1.1 HIGH LEVEL BEHAVIOURAL DIAGRAM
 ![](/Project/6_ImagesAndVideos/High%20level%20Behavioural%20diagram.png)
 #### 4.1.2 LOW LEVEL BEHAVIOURAL DIAGRAM
-![](/Project/6_ImagesAndVideos/Low%20level%20Behavioural%20diagram.png)
+![](/Project/6_ImagesAndVideos/Low%20Level%20Behavioural%20Diagram.png)
 
 ### 4.2 STRUCTURAL DIAGRAMS
 #### 4.2.1 HIGH LEVEL STRUCTURAL DIAGRAM
