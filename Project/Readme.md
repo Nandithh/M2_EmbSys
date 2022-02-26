@@ -1,7 +1,7 @@
 
 ##   WATER TANK CONTROLLER WITH QUALITY CHECK
 
-### INTRODUCION
+### ABSTRACT
  Water tank controller with Quality check is a system that shall be used to refill water tanks in houses and commercial buildings. This helps in elimination of manual monitoring and refilling of water tanks. The major advantages of the system is that it helps in automating tasks and also there is no wastage of water overflowing from tanks. It also provides the facility to check water quality as well. The components used in the system is very simple which makes the product economically accessible as well. The overall system development phase is explained.
         
 
@@ -29,31 +29,39 @@ LLR 3  |A water Quality sensor is used to chechk the quality of the water
 LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ## Components Description
-
 ### Microcontroller
-   Microcontroller is used to control the overall process in automating the refill of water ito the tank.
+   Microcontroller is used to control the overall process in automating the refill of water into the tank.
 
-### Thermistor
+## SENSORS
+### Water level sensor
  Two water level sensors are used to detect the water level. One for detecting if the tank is empty and another one detecting the top level of the tank.
 
-### Ultrasonic sensor
-   Relay circuit is used to switch on and off the relay based on the signals received from microcontroller.
+### Water Quality sensor
+ A water quality sensor is used to check the sediments and excess chlorine in the water and alert the user.
 
-### Keypad
+## ACTUATORS
+### Motor Driver Circuit
+   Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
 
-AC Power supply is given to the circuit inorder to run it.
-  
-### Relay
-  Rectifier is used to convert 230 V AC power supply into 5 V DC power supply. Since, microcontroller and DS 1307 are digital electronic devices they operate only in DC power supply.
-
-### LCD Display
+### Buzzer
   A buzzer is used to alert the user once the tank is filled.
+
+### LED’s
+ Two LED’s are used to alert the user regarding the quality of the water.  
+           *  RED – The water is impure.  
+           *  GREEN – The water is pure.  
+
+## Power Supply
+   AC power supply is converted to DC and  given to the circuit in order to run it.
+
 
 
 ## APPLICATIONS
 •	Houses  
-•	Offices   
-•	Hospitals       
-•	Commercial complexes   
+•	Industries  
+•	Schools  
+•	Hospitals  
+•	Commercial complexes  
+  
 
 
