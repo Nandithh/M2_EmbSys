@@ -101,8 +101,9 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ### 4.2 STRUCTURAL DIAGRAMS
 #### 4.2.1 HIGH LEVEL STRUCTURAL DIAGRAM
+![](/Project/6_ImagesAndVideos/High%20Level%20Structural%20Diagram.png)
 #### 4.2.2 LOW LEVEL STRUCTURAL DIAGRAM
-
+!
 
 ## 5.APPLICATIONS
 •	Houses  
