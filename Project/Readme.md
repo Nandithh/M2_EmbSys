@@ -14,7 +14,7 @@ Sl.no    | CONTENTS
 2.4    |  5W'S 1H
 3      | BLOCK DIAGRAM AND COMPONENTS
 3.1    |  BLOCK DIAGRAM
-3.2    |  COMPONENTS
+3.2    |  COMPONENT DESCRIPTION
 4      | ARCHITECTURE 
 4.1    |  BEHAVIOURAL DIAGRAMS 
 4.1.1  |    HIGH LEVEL
@@ -60,12 +60,15 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ### 2.3 SWOT ANALYSIS
 
-### 2.4 5W'S AND 1'H
+
 
 #### What 
    This is 
+   
+## 3.BLOCK DIAGRAM & COMPONENT DESCRIPTION
+### 3.1BLOCK DIAGRAM
 
-## Components Description
+###  3.2 Components Description
 ### Microcontroller
    Microcontroller is used to control the overall process in automating the refill of water into the tank.
 
@@ -88,12 +91,20 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
            *  RED – The water is impure.  
            *  GREEN – The water is pure.  
 
-## Power Supply
+### Power Supply
    AC power supply is converted to DC and  given to the circuit in order to run it.
+   
+## 4.ARCHITECTURE
+### 4.1 BEHAVIOURAL DIAGRAMS
+#### 4.1.1 HIGH LEVEL
+#### 4.1.2 LOW LEVEL
+
+### 4.2 STRUCTURAL DIAGRAMS
+#### 4.2.1 HIGH LEVEL
+#### 4.2.2 LOW LEVEL
 
 
-
-## APPLICATIONS
+## 5.APPLICATIONS
 •	Houses  
 •	Industries  
 •	Schools  
