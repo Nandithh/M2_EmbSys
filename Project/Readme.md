@@ -4,10 +4,25 @@
 ### TABLE OF CONTENTS
 Sl.no    | CONTENTS
 -------| -----------------------------------------
-HLR 1  |To Refill the water tank automatically when tank becomes empty.
-HLR 2  |Alert the user when the tank is filled.
-HLR 3  |To check the quality of water and alert user.
-HLR 4  |To turn ON the motor when the tank becomes empty.
+1      | INTRODUCTION
+1.1    |  ABSTRACT
+1.2    |  OBJECTIVE
+2      | REQUIREMENTS
+2.1    |  HIGH LEVEL REQUIREMENTS
+2.2    |  LOW LEVEL REQUIREMENTS
+2.3    |  SWOT ANALYSIS
+2.4    |  5W'S 1H
+3      | BLOCK DIAGRAM AND COMPONENTS
+3.1    |  BLOCK DIAGRAM
+3.2    |  COMPONENTS
+4      | ARCHITECTURE 
+4.1    |  BEHAVIOURAL DIAGRAMS 
+4.1.1  |    HIGH LEVEL
+4.1.2  |    LOW LEVEL
+4.2    |  STRUCTURAL DIAGRAMS 
+4.2.1  |    HIGH LEVEL
+4.2.2  |    LOW LEVEL
+5      | APPLICATIONS
 
 ## 1.INTRODUCTION
 
