@@ -68,6 +68,8 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ## 3.BLOCK DIAGRAM & COMPONENT DESCRIPTION
 ### 3.1BLOCK DIAGRAM
 
+![](/6_ImagesAndVideos/Block%20Diagram.png)
+
 ###  3.2 Components Description
 ### Microcontroller
    Microcontroller is used to control the overall process in automating the refill of water into the tank.
