@@ -39,3 +39,29 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ### 1H:
 
 #### How - By using a micro-controller, sensors and few actuators.
+
+###   Components Description
+### Microcontroller
+   Microcontroller is used to control the overall process in automating the refill of water into the tank.
+
+## SENSORS
+### Water level sensor
+ Two water level sensors are used to detect the water level. One for detecting if the tank is empty and another one detecting the top level of the tank.
+
+### Water Quality sensor
+ A water quality sensor is used to check the sediments and excess chlorine in the water and alert the user.
+
+## ACTUATORS
+### Motor Driver Circuit
+   Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
+
+### Buzzer
+  A buzzer is used to alert the user once the tank is filled.
+
+### LED’s
+ Two LED’s are used to alert the user regarding the quality of the water.  
+           *  RED – The water is impure.  
+           *  GREEN – The water is pure.  
+
+### Power Supply
+   AC power supply is converted to DC and  given to the circuit in order to run it.
