@@ -1,17 +1,19 @@
 ## ARCHITECTURE
-### 1 BEHAVIOURAL DIAGRAMS
-#### 1.1 HIGH LEVEL BEHAVIOURAL DIAGRAM
+## 1.Block Diagram:
+![](/Project/6_ImagesAndVideos/Block%20Diagram.png)
+### 2 BEHAVIOURAL DIAGRAMS
+#### 2.1 HIGH LEVEL BEHAVIOURAL DIAGRAM
 ![](/Project/6_ImagesAndVideos/High%20level%20Behavioural%20diagram.png)
-#### 1.2 LOW LEVEL BEHAVIOURAL DIAGRAM
+#### 2.2 LOW LEVEL BEHAVIOURAL DIAGRAM
 ![](/Project/6_ImagesAndVideos/LowLevel%20Behavioural%20Diagram.png)
 
-### 2 STRUCTURAL DIAGRAMS
-#### 2.1 HIGH LEVEL STRUCTURAL DIAGRAM
+### 3 STRUCTURAL DIAGRAMS
+#### 3.1 HIGH LEVEL STRUCTURAL DIAGRAM
 ![](/Project/6_ImagesAndVideos/High%20Level%20Structural%20Diagram.png)
-#### 2.2 LOW LEVEL STRUCTURAL DIAGRAM
+#### 3.2 LOW LEVEL STRUCTURAL DIAGRAM
 ![](/Project/6_ImagesAndVideos/Low%20Level%20Structural%20Diagram.png)
 
-##   Components Description
+##   4 Components Description
 ### Microcontroller
    Microcontroller is used to control the overall process in automating the refill of water into the tank.
 
