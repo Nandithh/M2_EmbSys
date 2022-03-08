@@ -1,7 +1,7 @@
 
 ##   WATER TANK CONTROLLER WITH QUALITY CHECK
 ## Badges
-[![CI](https://github.com/Nandithh/M2_EmbSys/actions/workflows/main.yml/badge.svg)](https://github.com/Nandithh/M2_EmbSys/actions/workflows/main.yml)
+ [![CI](https://github.com/Nandithh/M2_EmbSys/actions/workflows/main.yml/badge.svg)](https://github.com/Nandithh/M2_EmbSys/actions/workflows/main.yml)  [![cppcheck-action](https://github.com/Nandithh/M2_EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nandithh/M2_EmbSys/actions/workflows/cppcheck.yml)
 
 ### TABLE OF CONTENTS
 Sl.no    | CONTENTS
