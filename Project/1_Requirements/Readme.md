@@ -48,7 +48,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 #### How - By using a micro-controller, sensors and few actuators.
 
-###   Components Description
+##  Components Description
 ### Microcontroller
    Microcontroller is used to control the overall process in automating the refill of water into the tank.
 
