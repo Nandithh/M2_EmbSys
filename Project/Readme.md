@@ -22,7 +22,8 @@ Sl.no    | CONTENTS
 4.2    |  STRUCTURAL DIAGRAMS 
 4.2.1  |    HIGH LEVEL
 4.2.2  |    LOW LEVEL
-5      | APPLICATIONS
+5      | OUTPUT
+6      | APPLICATIONS
 
 ## 1.INTRODUCTION
 
@@ -119,7 +120,10 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 #### 4.2.2 LOW LEVEL STRUCTURAL DIAGRAM
 ![](/Project/6_ImagesAndVideos/Low%20Level%20Structural%20Diagram.png)
 
-## 5.APPLICATIONS
+## 5. OUTPUT
+![](/Project/6_ImagesAndVideos/Simulation-Running.png)
+
+## 6.APPLICATIONS
 •	Houses  
 •	Industries  
 •	Schools  
