@@ -18,7 +18,7 @@ ID     | Description
 LLR 1  |A Microcontroller is used for controlling the process.
 LLR 1.1  |A water level sensor is used to check the water level.
 LLR 2  |Buzzer is used to alert the user.
-LLR 3  |A water Quality sensor is used to chechk the quality of the water
+LLR 3  |A water Quality sensor is used to check the quality of the water
 LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ### SWOT ANALYSIS
@@ -56,12 +56,12 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
    Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
 
 ### Buzzer
-  A buzzer is used to alert the user once the tank is filled.
+  A buzzer is used to alert the user once the water is poor in quality.
 
 ### LED’s
- Two LED’s are used to alert the user regarding the quality of the water.  
-           *  RED – The water is impure.  
-           *  GREEN – The water is pure.  
+ Two LED’s are used to alert the user regarding the water level.  
+            * RED – The tank is Empty.
+            * GREEN – The tank is full.  
 
 ### Power Supply
    AC power supply is converted to DC and  given to the circuit in order to run it.
